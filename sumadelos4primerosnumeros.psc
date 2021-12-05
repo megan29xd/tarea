@@ -1,5 +1,5 @@
 Algoritmo sumadelos4primerosnumeros
-	
+//	hola
 	Definir i Como Entero
 	Definir suma Como Entero
 	
